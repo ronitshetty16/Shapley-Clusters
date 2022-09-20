@@ -14,3 +14,9 @@ The dataset has the following columns:
 
 
 Using Astronomical Coordinate System the galaxies are plotted against Right ascension and Declination, which in result shows their position in the sky.
+
+
+
+
+![image](https://user-images.githubusercontent.com/72545572/191368439-75dc5a2f-650c-4fd1-bf2c-15cf81ccaa93.png)
+
