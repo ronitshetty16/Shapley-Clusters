@@ -1,5 +1,5 @@
 # Shapley-Clusters
-Simple Data Visulization and Exploratory Data Analysis of the Shapley Galaxy dataset using Python libraries such as numpy, pandas, matplotlib, seaborn and astropy.
+Simple Data Visualization and Exploratory Data Analysis of the Shapley Galaxy dataset using Python libraries such as numpy, pandas, matplotlib, seaborn and astropy.
 
 
 The Shapley Supercluster or Shapley Concentration (SCl 124) is the largest concentration of galaxies in our nearby universe that forms a gravitationally interacting unit, thereby pulling itself together instead of expanding with the universe. It appears as a striking overdensity in the distribution of galaxies in the constellation of Centaurus. It is 650 million light-years away.
